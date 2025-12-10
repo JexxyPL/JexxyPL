@@ -1,7 +1,32 @@
-## 👋 About Me 👋
-I'm an IT engineering student, who taught himself programming.
-School kick-started my journey on learning how to code on my own.
-Right now I mainly focus on studying Web development, especially on React framework.
-I also do some programming in C++,
-but that doesn't mean I don't program in other languages!
-I know a bit of java, C#, Javascript (of course)!
+# 👋 Hey, I'm Jexxy!
+
+I'm an **IT Technician** with a passion for both **hardware and software**.  
+My journey started at school, and since then I've been learning **programming and IT skills on my own**.  
+
+---
+
+## 🌐 What I Do
+
+- 🖥️ Repair and maintain **computers and hardware**  
+- 🌐 Manage **servers and networks**  
+- 💻 Programming in **C++**, **Java**, **C#**, **JavaScript**
+  
+---
+
+## 🛠 Skills & Tools
+
+- **Hardware:** Computer repair, soldering, troubleshooting  
+- **Networking:** LAN/WAN, server management, network setup  
+- **Programming Languages:** C++, Java, C#, JavaScript  
+- **Software/Tools:** Linux, Git, React (Web Development)  
+
+---
+
+## 🎯 Goals
+
+- Improve my skills in **Web Development** and **programming**  
+- Expand knowledge in **servers, networks, and hardware**  
+
+---
+
+*“Always learning, always building!”* 💡
