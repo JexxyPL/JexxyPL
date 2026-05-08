@@ -1,1 +1,1 @@
-An IT Technician who ocassionally programs in various languages. Mainly interested in web development.
+An IT Technician who ocassionally programs I guess. Mainly interested in web development.
